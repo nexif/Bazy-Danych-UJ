@@ -22,10 +22,10 @@ Zadanie 11:
 Zadanie 12:
 Do bazy danych z zadania 11 proszę dodać przy pomocy procedur przynajmniej 3 samoloty, 15 pasażerów, wybraną ilość członków załogi oraz 3 loty.
 Proszę napisać następujące procedury:
-  a) przydzielającą samoloty do lotów (należy pamiętać, aby nie przydzielić samolotu do trasy dłuższej niż jego zasięg)
-  b) dodającą jednego członka załogi na każde 1000 km do lotu dłuższego niż 5000 km
-  c) dodającą jednego pilota do lotu dłuższego niż 7000 km
-  d) przydzielającą bilety na poszczególne loty dla wszystkich pasażerów (pasażerów należy rozdzielić po równo do każdego lotu)
+  1. przydzielającą samoloty do lotów (należy pamiętać, aby nie przydzielić samolotu do trasy dłuższej niż jego zasięg)
+  2. dodającą jednego członka załogi na każde 1000 km do lotu dłuższego niż 5000 km
+  3. dodającą jednego pilota do lotu dłuższego niż 7000 km
+  4. przydzielającą bilety na poszczególne loty dla wszystkich pasażerów (pasażerów należy rozdzielić po równo do każdego lotu)
   
  Zadanie 13:
  Dla bazy danych z ćwiczenia 8 (linie lotnicze) proszę przy pomocy funkcji:
