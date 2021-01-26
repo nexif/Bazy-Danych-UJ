@@ -37,3 +37,6 @@ Proszę napisać następujące procedury:
   
 Zadanie 14:
 Proszę zaprojektować bazę danych pracowników banku. Przy pomocy transakcji proszę podnieść pensje wszystkim pracownikom zarabiającym poniżej 2000, u których liczba nadgodzin wynosiła co najmniej 10% podstawowego czasu pracy.
+
+Zadanie 15:
+Baza danych gwiazd i planet wokół nich krążących. Proszę utworzyć 3 wyzwalacze: wstawiający datę wprowadzenia danych podczas dodawania rekordu do bazy danych, wstawiający datę modyfikacji podczas uaktualniania danych oraz wstawiający informację o usunięciu planety w bazie zamiast usuwania rekordu z bazy.
